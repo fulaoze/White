@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/login.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    no-repeat: center top;
+    height: 100%;
+    width: 100%;
+}
+
+.search-results {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+.search-results div {
+    margin-bottom: 10px;
+}
